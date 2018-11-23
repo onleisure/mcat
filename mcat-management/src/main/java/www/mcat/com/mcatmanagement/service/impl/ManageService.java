@@ -7,5 +7,6 @@ public class ManageService {
 
     public void test(){
         System.out.println("are you ok?");
+        System.out.println("i'm ok");
     }
 }
